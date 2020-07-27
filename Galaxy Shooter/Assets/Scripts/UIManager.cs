@@ -16,6 +16,7 @@ public class UIManager : MonoBehaviour
     [SerializeField]
     private Text _restartText;
     private GameManager _gameManager;
+    //adding this comment to test version control
 
     
     // Start is called before the first frame update
